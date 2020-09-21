@@ -1,0 +1,127 @@
+{
+  "Header": {
+    "title": "Royal Hardware",
+    "paragraph": "Royally Made, Royally Delivered."
+  },
+  "About": {
+    "paragraph": "Royal Hardware Established in the year 2017 at Thane, Maharashtra. We are excited to offer you a wide variety of fastening solutions for construction applications.\n Since its incorporation- Royal Hardware has evolved into a major player in the field of quality fasteners catering to the booming Indian market.\n Our screws & fasteners have been used for major construction projects. Ample stocks, modern infrastructure and transportation facilities, ensures faster turnaround time and shorter lead time for our customers which is so vital for their project planning.\n Our teams & commitment from enquiry to delivery of fasteners by providing a consistent, efficient & prompt service and quality is what has earned us the distinction of being the & Leaders in Screws & Fasteners in our region.\n We at “Royal Hardware not only trade but also forge longstanding relationship with customers to delight them with World Class Quality products & also satisfy them in price, delivery & performance.",
+    "Why": ["Performance", "Quality"],
+    "Why2": ["Fast Delivery", "Outstanding Services"]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-child",
+      "name": "Professionalism",
+      "text": "Professionalism in carrying out business"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Best Solutions",
+      "text": "Increasing market share by providing best component solution"
+    },
+    {
+      "icon": "fa fa-comments",
+      "name": "Communication",
+      "text": "Use of technology to improve standard of communication & delivery system"
+    },
+    {
+      "icon": "fa fa-money",
+      "name": "value for money",
+      "text": "Value for money for customers"
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "name": "Innovation",
+      "text": "Innovative product to cater to different needs of different customer"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "On Time Delivery",
+      "text": "Providing on time delivery to customer"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/Chipboard.jpg",
+      "name": "Chipboard Screw",
+      "job": "Chipboard screws, also named particle board screws, are self-tapping screws with thin shafts and coarse threads. They are made of carbon steel or stainless steel and then galvanized. Chipboard screws of different lengths can be used in a variety of applications. They are created to fasten low, medium and high density chipboard. Many chipboard screws are self-tapping, so there is no need to drill holes in advance."
+    },
+    {
+      "img": "img/team/drywall.jpg",
+      "name": "Drywall Screw",
+      "job": "Drywall Screw is a specialized self-tapping screw with a cylindrical shaft. These screws almost always have a Phillips Bulge Head rather than a slotted head, which provides additional control for installers. In addition of a standard drill, installers also use a tool known as a drywall dimpler, which has an adjustable nose to install a drywall screw without tearing the paper on each sheet."
+    },
+    {
+      "img": "img/team/Machine.jpg",
+      "name": "Machine Screws",
+      "job": "ASME standards specify a variety of 'Machine Screws' in diameters ranging up to 0.75 in (19.05 mm). These fasteners are often used with nuts but also often driven into tapped holes (without nuts). They might be considered a screw or a bolt based on the Machinery's Handbook distinction. In practice, they tend to be mostly available in smaller sizes and the smaller sizes are referred to as screws or less ambiguously as machine screws, although some kinds of machine screw can be referred to as stove bolts."
+    },
+    {
+      "img": "img/team/SelfDrilling.jpg",
+      "name": "SelfDrilling",
+      "job": "Similar to sheet metal screws, but they have a drill-shaped point to cut through sheet metal or steel which eliminates the need for drilling a pilot hole. These self-drilling screws are designed for use in soft steel or other metals.Self-drilling screw points are numbered from 1 through 5, the larger the number, the thicker metal it can go through without a pilot hole. A 5 point can drill a 0.5 in (13 mm) of steel, for example."
+    }
+  ],
+  "Contact": {
+    "address": "504 Jayshree Apt, Syedna Mohammad Burhanuddin Marg, Mumbra, Thane-612.",
+    "phone": "+91 7710999278",
+    "email": "quote@royalhardware.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-star",
+      "title": "Quality",
+      "text": "All times quality products and components solutions"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Professional Assisstance",
+      "text": "Providing accurate knowledge and guidelines to our customers"
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Best in class service",
+      "text": "Clear understanding of customer’s perspective and suitability"
+    },
+    {
+      "icon": "fa fa-plane",
+      "title": "On Time Delivery",
+      "text": "To deliver what promised on time."
+    }
+  ]
+}
